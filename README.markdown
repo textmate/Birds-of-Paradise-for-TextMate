@@ -11,7 +11,7 @@ Installation
 
 1. Download the package from GitHub. 
 2. Unzip or unpack the package if it isn't already. 
-3. Copy the file `Birds of Paradise.tmTheme` to `~/Library/Application\ Support/TextMate/Themes/Birds of Paradise.tmTheme`.
+3. Copy the file `Birds of Paradise.tmTheme` to `~/Library/Application\ Support/TextMate/Themes/Birds\ of\ Paradise.tmTheme`.
 4. Open TextMate, from the _TextMate_ menu choose _Preferences_ and then the _Fonts and Colors_ tab. From the select menu choose _Birds of Paradise_.
 
 Problems
