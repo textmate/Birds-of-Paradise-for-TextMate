@@ -1,11 +1,6 @@
 Birds of Paradise for TextMate: A Light-On-Dark TextMate Theme based on Birds of Paradise for Coda
 ==================================================================================================
 
-License
--------
-
-The Birds of Paradise Theme for TextMate by [Joseph Bergantine](http://joebergantine.com) is released under a [Creative Commons Attribution Share-Alike 3.0 License](http://creativecommons.org/licenses/by-sa/3.0/us/).
-
 Installation
 ------------
 
