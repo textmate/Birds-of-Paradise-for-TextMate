@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contactEmailRot13</key>
+	<string>woretnagvar@tznvy.pbz</string>
+	<key>contactName</key>
+	<string>Joe Bergantine</string>
+	<key>description</key>
+	<string>A Light-On-Dark TextMate Theme based on Birds of Paradise for Coda.</string>
+	<key>name</key>
+	<string>Birds of Paradise</string>
+	<key>uuid</key>
+	<string>AC9172EA-9B44-4DB6-BF50-7E25A38E13BD</string>
+</dict>
+</plist>
