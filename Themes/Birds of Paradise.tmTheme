@@ -6,6 +6,8 @@
 	<string>Joe Bergantine</string>
 	<key>name</key>
 	<string>Birds of Paradise</string>
+	<key>semanticClass</key>
+	<string>theme.dark.birds-of-paradise</string>
 	<key>settings</key>
 	<array>
 		<dict>
